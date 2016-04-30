@@ -1,0 +1,78 @@
+@media screen and (min-width: 480px)
+{
+	/*************cambio de colores en la pagina dependiendo si se abre en un celular, tablet o Pc
+	body {
+			background: navy;
+		}
+}
+
+@media screen and (min-width: 660px)
+{
+
+	body{
+
+		background: darkgreen;
+	}
+}*/
+/**************layout 2 columnas*/
+#primary {
+	width: 50%;
+	float: left;
+}
+
+#secondary {
+	width: 40%;
+	float: right;	
+}
+}
+
+#galeria li{
+width: 28.33%;
+color: #fff;
+}
+
+#galeria li:nth-child(3n+1)
+{
+
+	clear: left;
+}
+
+.profile-photo {
+
+	float: left;
+	margin: 0 5% 120px 0;
+}
+/****barra de navegacion alineada a la derecha*/
+nav {
+	background: none;
+	float: right;
+	font-size: 1.125em;
+	margin-right: 5%;
+	text-align: right;
+	width: 45%;
+}
+
+#logo {
+
+	float: left;
+	margin-left: 5%;
+	text-align: left;
+	width: 45%;
+
+}
+
+h1{
+	font-size: 1.5em;
+}
+h2{
+
+	font-size: 0.825em;
+	margin-bottom: 20px;
+}
+
+/*************finalizado de encabezado*************/
+header{
+	border-bottom: 5px solid #599a68;
+	margin-bottom: 60px;
+
+}
