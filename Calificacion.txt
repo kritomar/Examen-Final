@@ -1,0 +1,15 @@
+Detalle Calificacion   11/27
+Requisitos Funcionales (15 Puntos): (5 por pagina) 3 Puntos = (3 + 3 + 2) = No tomo en cuenta el esquema de arreglo de objetos y carga dinamica del contenido. - 5 por no usar la estructura de datos acordada.
+Errores Manejados o no tiene en consola (2 Puntos): 1 Punto. Le falta validar campos y tiene errores en la consola, aunque no graves.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 1 Punto. El codigo tiene muchas funciones que no se usan en este proyecto, por que? 
+Buen Uso de Jquery y Galeria (2.5 Puntos): 2 Puntos. Si se uso JQuery en la galeria y esta funciona bien. Pero no se tomaron las imagenes desde el javascript.
+Uso de los media Queries (2.5 Puntos): 2 Puntos. Uso media queries para el menu de moviles, pero en el responsive.css hay media queries pero no tiene funcionalidad.
+Comentarios (1 Punto): 0 Puntos. No tiene comentarios en su codigo, solo en las partes que tomo del mio.
+Pagina con buena estetica (1 Punto): 1 Punto. Su pagina tiene muy buen aspecto.
+Subio bien a github (1 Punto bonus): 1 Punto. 
+Total: 11 Puntos
+
+Comentarios Profesor
+En el formulario, tienen campos no validados. El precio de las entradas no esta fijo como se solicito. 
+No se cargan datos de manera dinamica en el formulario.
+No siguio el esquema de arreglo de objetos de peliculas y locales.
